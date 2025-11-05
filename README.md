@@ -13,5 +13,3 @@ A lightweight CLI user manager in Python, colorful and terminal-friendly. Regist
 - **Basic Security**: Globally unique passwords, hidden input via `getpass`, random shuffle for generation.
 
 Built by [jmoreira01](https://github.com/jmoreira01) in collaboration with a fellow coder.
-
-License: MIT—hack away.
